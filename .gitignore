@@ -43,3 +43,5 @@ meal_photos/
 *.pyc
 
 .env
+
+env/
